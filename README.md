@@ -1,4 +1,4 @@
-# Landing
+# Landing `html + css`
 __Made a landing for the test task__
 >view
 >
